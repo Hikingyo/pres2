@@ -1,0 +1,22 @@
+= Les Médias détenus
+
+== Définitions, Poids et Evolution
+
+=== Owned Media
+
+* Site web
+* Médias sociaux
+* Blogs
+* Courriels
+
+=== En chiffres
+
+== Email et mobile Marketing
+
+=== Email
+
+=== Mobile MArketing
+
+== Les médias sociaux
+
+image::RS-chiffres.png[]
